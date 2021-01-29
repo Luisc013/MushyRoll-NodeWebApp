@@ -1,5 +1,5 @@
-# MushyRoll-NodeWebApp
-Developing a Node.js/Express.js remake of the "CrunchyRoll" streaming services official webpage
+# TopMedicsBx
+Developing a Node.js/Express.js webapp that provides recommendations for top medical professionals in the Bronx.
 
 ## Requirements
 
@@ -37,8 +37,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone git@github.com:Luisc013/MushyRoll-NodeWebApp.git
-    $ cd MushyRoll-NodeWebApp
+    $ git clone git@github.com:Luisc013/TopMedicsBx.git
+    $ cd path/to/TopMedicsBx
     $ npm install
 
 ## Running the project
