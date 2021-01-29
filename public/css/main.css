@@ -13,7 +13,14 @@ li, a, button {
     text-decoration: none;
 }
 
-h1, h3 {
+h1 {
+    font-family: 'Oxanium', cursive;
+    font-weight: 1000;
+    font-size: 100px;
+    color: #083B66;
+}
+
+h3 {
     font-family: 'Oxanium', cursive;
     font-weight: 800;
 }
